@@ -1,0 +1,245 @@
+Task,Requirements,Mileage,Left title,Right title
+[Town name] Miles!,Unlock Nook Miles,500,Nook Inc.'s,Patron
+Angling for perfection 1,Catch 10 fish,300,Accomplished,Lad/Lass
+Angling for perfection 2,Catch 100 fish,500,Competant,Fishing fan
+Angling for perfection 3,Catch 500 fish,1000,Moderate,Beach bum
+Angling for perfection 4,Catch 2000 fish,,,
+Angling for perfection 5,,,,
+Island Ichthyologist 1,Catch 10 unique fish,300,Small-Fry,Pesca pro
+Island Ichthyologist 2,Catch 20 unique fish,500,Energetic,Angler
+Island Ichthyologist 3,Catch 40 unique fish,1000,Pond-Raised,Tropical fish
+Island Ichthyologist 4,Catch 60 unique fish,2000,Hooked,Reaction
+Island Ichthyologist 5,Catch 80 unique fish,,,
+Island Togetherness 1,Talk to all your neightbors 1 day,300,Unhindered,Wallflower
+Island Togetherness 2,Talk to all your neightbors 10 days,500,Unabashedly,Shy kid
+Island Togetherness 3,Talk to all your neightbors 20 days,1000,Respected,One
+Island Togetherness 4,Talk to all your neightbors 30 days,,,
+Island Togetherness 5,,,,
+You've got the bug 1,Catch 10 bugs,300,Freshly delivered,Egg
+You've got the bug 2,Catch 100 bugs,500,Weak,Grub
+You've got the bug 3,Catch 500 bugs,1000,Emerging,Pupa
+You've got the bug 4,Catch 2000 bugs,,,
+You've got the bug 5,,,,
+Bugs don't bug me 1,Catch 10 unique bugs,300,Hoby-level,bug fan
+Bugs don't bug me 2,Catch 20 unique bugs,500,Night-owl,Insect
+Bugs don't bug me 3,Catch 40 unique bugs,,,
+Bugs don't bug me 4,Catch 60 unique bugs,,,
+Bugs don't bug me 5,Catch 80 unique bugs,,,
+Have a nice DIY! 1,Collect 10 DIY recipes,300,Trivia,Representative
+Have a nice DIY! 2,Collect 50 DIY recipes,500,Savvy,Intellectual
+Have a nice DIY! 3,Collect 100 DIY recipes,1000,Understated,Authority
+Have a nice DIY! 4,Collect 150 DIY recipes,2000,Knowledge-thirsty,Sidekick
+Have a nice DIY! 5,Collect 200 DIY recipes,,,
+DIY Tools 1,Craft 5 tools,300,Creative,Enthusiast
+DIY Tools 2,Craft 50 tools,500,Crafty,Club member
+DIY Tools 3,Craft 200 tools,1000,Hip,Virtuoso
+DIY Tools 4,Craft 1000 tools,,,
+DIY Tools 5,,,,
+DIY Furniture 1,Craft 5 furniture,300,Handmade,Resident
+DIY Furniture 2,Craft 50 furniture,500,Emerging,Artisan
+DIY Furniture 3,Craft 200 furniture,,,
+DIY Furniture 4,,,,
+DIY Furniture 5,,,,
+Furniture Freshener 1,Customize 5 furniture,300,Unique,Eccentric
+Furniture Freshener 2,Customize 20 furniture,,,
+Furniture Freshener 3,,,,
+Furniture Freshener 4,,,,
+Furniture Freshener 5,,,,
+Rough-hewn 1,Chop 20 wood from trees,300,Specific,Producer
+Rough-hewn 2,Chop 100 wood from trees,500,Aggressive,Problem solver
+Rough-hewn 3,Chop 500 wood from trees,1000,Sharp,Guard
+Rough-hewn 4,Chop 2000 wood from trees,,,
+Rough-hewn 5,,,,
+Trashed tools 1,Break 1 tool,300,Rascally,Clown
+Trashed tools 2,Break 20 tools,500,Overboard,Crusher
+Trashed tools 3,Break 50 tools,1000,Rowdy,Punk
+Trashed tools 4,Break 100 tools,2000,Rough-and-tumble,Meanie
+Trashed tools 5,Break 200 tools,,,
+Rock-splitting champ,Break a rock,500,Sports-minded,Muscle
+Bona fide bone finder!,Find a fossil,300,Discovered,Fossil
+Fossil assessment 1,Get 5 fossils assessed,300,Anonymous,Something or other
+Fossil assessment 2,Get 30 fossils assessed,500,Ancient,Truth
+Fossil assessment 3,Get 100 fossils assessed,1000,History-loving,Researcher
+Fossil assessment 4,Get 300 fossils assessed,,,
+Fossil assessment 5,,,,
+Greedy weeder 1,Pull and sell 50 weeds,300,Mesy,Lawn clippings
+Greedy weeder 2,Pull and sell 200 weeds,500,Omnivorous,Custodian
+Greedy weeder 3,Pull and sell 1000 weeds,1000,Herbivorous,Sorter
+Greedy weeder 4,Pull and sell 2000 weeds,,,
+Greedy weeder 5,,,,
+Flower power 1,Plant 10 flowers,300,Greenhouse,Flower
+Flower power 2,Plant 50 flowers,500,Thorny,Rose
+Flower power 3,Plant 100 flowers,,,
+Flower power 4,,,,
+Flower power 5,,,,
+Flower tender 1,Water 10 flowers,300,Refined,Caretaker
+Flower tender 2,Water 50 flowers,500,Detailed,Keeper
+Flower tender 3,Water 100 flowers,1000,Careful,Gardener
+Flower tender 4,Water 500 flowers,,,
+Flower tender 5,,,,
+Tomorrow's Trees Today 1,Plant 5 saplings,300,Outdoorsy,Defender
+Tomorrow's Trees Today 2,Plant 10 saplings,,,
+Tomorrow's Trees Today 3,,,,
+Pick of the bunch 1,Sell 20 fruit,300,Inexperienced,Observationist
+Pick of the bunch 2,Sell 100 fruit,500,Precocious,Bounty
+Pick of the bunch 3,Sell 500 fruit,1000,Seasonal,Tree
+Pick of the bunch 4,Sell 1000 fruit,2000,Mature,Kind
+Pick of the bunch 5,Sell 3000 fruit,,,
+Fruit roots 1,Plant a cherry tree,,Twin's,Other half
+Fruit roots 2,Plant an orange tree,,Total,Freshman
+Fruit roots 3,Plant a pear tree,,Unpearable,Pear
+Fruit roots 4,Plant a peach tree,,Plucky,Star
+Fruit roots 5,Plant an apple tree,,Crisp,Mr/Ms. Popular
+Fruit roots 6,Plant a coconut tree,,Tropically grown,Coconut
+Go ahead. Be shellfish! 1,Sell 10 shells,300,Shell-grabbing,Shell fan
+Go ahead. Be shellfish! 2,Sell 50 shells,500,Seashore,Seashell seller
+Go ahead. Be shellfish! 3,Sell 200 shells,1000,Shifty,Shellector
+Go ahead. Be shellfish! 4,Sell 500 shells,2000,Over-shelled,Shell master
+Go ahead. Be shellfish! 5,Sell 1000 shells,,,
+Clam and collected 1,Dig up 5 clams,300,Tidal,Season
+Clam and collected 2,Dig up 20 clams,500,Ready,Coast dweller
+Clam and collected 3,Dig up 50 clams,1000,Buried,Genius
+Clam and collected 4,Dig up 100 clams,,,
+Clam and collected 5,Dig up 200 clams,3000,Waters edge,Mermaid
+Trash fishin' 1,Fish up 3 trash items,300,Untossable,Trash
+Trash fishin' 2,Fish up 10 trash items,500,Eco-friendly,Ecologist
+Trash fishin' 3,Fish up 20 trash items,1000,Waterway,Cleaner
+Cast Master 1,"Reel in 10 fish in a row, without letting any get away",300,Mistakenly caught,Fish
+Cast Master 2,"Reel in 50 fish in a row, without letting any get away",500,Bait-snatching,Frenzy
+Cast Master 3,"Reel in 100 fish in a row, without letting any get away",1000,Wave-tossed,Life-form
+Dream house 1,Expand your home once,500,One-Room,Loner
+Dream house 2,Expand your home twice,1000,Single-Occupant,Beginner
+Dream house 3,Expand your home five times,,,
+Dream house 4,,,,
+Dream house 5,,,,
+Decorated decorator,Get an S ranking from the Happy Home Academy,1000,Happy,Overachiever
+Hoard Reward 1,Place 5 furiture items in your home at once,300,Interior,Sorter
+Hoard Reward 2,Place 15 furiture items in your home at once,1000,Tentative,Remodeler
+Hoard Reward 3,Place 30 furiture items in your home at once,2000,Comparative,Sundries fan
+Hoard Reward 4,Place 100 furiture items in your home at once,,,
+Hoard Reward 5,,,,
+Good things in Store! 1,Store 20 items in your home,300,Overstuffed,Stylist
+Good things in Store! 2,Store 50 items in your home,500,Partially Obscured,Talent
+Good things in Store! 3,Store 100 items in your home,2000,At-capacity,Manager
+Good things in Store! 4,Store 200 items in your home,3000,,
+Good things in Store! 5,Store 300 items in your home,5000,Invulnerable,Life hacker
+Remarkable remodeler 1,Remodel your house once,500,Home,Transformer
+Remarkable remodeler 2,Remodel your house three times,,,
+Remarkable remodeler 3,,,,
+Smile isle 1,Fullfill 1 request for a villager,300,Kindly,Standard
+Smile isle 2,Fullfill 10 requests for villagers,500,Reliable,Ally
+Smile isle 3,Fullfill 50 requests for villagers,,,
+Smile isle 4,,,,
+Smile isle 5,,,,
+Reaction Ruler 1,Learn 1 reaction,300,Overacting,Neophyte
+Reaction Ruler 2,Learn 10 reactions,500,Apprentice,Dancer
+Reaction Ruler 3,Learn 20 reactions,1000,Dad-joking,Semiprofessional
+Reaction Ruler 4,Learn 30 reactions,,,
+Reaction Ruler 5,,,,
+Island shutterbug,Take a photo,300,Photgenic,Photographer
+Edit credit,Edit your passport,300,Future,Traveker
+NookPhone life,Use your nookphone,300,Smartphone,Savant
+That’s one smart phone,Use your nookphone a lot,1000,Digital-age,Child
+Shop to it 1,Buy 1 item through nook shoping,300,Internet,Surger
+Shop to it 2,Buy 20 items through nook shoping,500,Connected,Reviewer
+Shop to it 3,Buy 50 items through nook shoping,,,
+Shop to it 4,,,,
+Shop to it 5,,,,
+Growing collection 1,Add 100 items to your nook shopping catalog,300,Casual,Materlist
+Growing collection 2,Add 200 items to your nook shopping catalog,500,Curious,Force
+Growing collection 3,Add 300 items to your nook shopping catalog,1000,Greedy,Collector
+Growing collection 4,Add 400 items to your nook shopping catalog,2000,Materialistic,Avatar
+Growing collection 5,Add 500 items to your nook shopping catalog,,,
+Nook miles for miles! 1,Complete 5 nook miles+ tasks,300,So-called,Ground traveler
+Nook miles for miles! 2,Complete 50 nook miles+ tasks,500,Novice,Rookie
+Nook miles for miles! 3,Complete 200 nook miles+ tasks,1000,Wide-randing,Hobbyist
+Nook miles for miles! 4,Complete 1000 nook miles+ tasks,,,
+Nook miles for miles! 5,,,,
+First-time buyer,Buy your first item,300,Full-fledged,Consumer
+Seller of unwanted stuff,Sell your first item,300,Down-and-out,Eventuality
+Moving fees paid!,Pay off your moviung fees,500,Autonomous,Life
+Bell Ringer 1,Spend 5000 bells,300,Invested,Shopaholic
+Bell Ringer 2,Spend 50000 bells,500,Thrifty,Family member
+Bell Ringer 3,Spend 500000 bells,1000,Covetous,Personality
+Bell Ringer 4,Spend 2000000 bells,,,
+Bell Ringer 5,,,,
+Miles for stalkholders,Buy turnips from Daisy Mae on Sunday morning,300,Weekend,Stalkholder
+Cornering the stalk market 1,Make 1000 bells in profit selling turnips,300,Status-minded,Speculator
+Cornering the stalk market 2,Make 10000 bells in profit selling turnips,500,Avaricious,Moneybags
+Cornering the stalk market 3,Make 100000 bells in profit selling turnips,1000,Upstart,Trader
+Cornering the stalk market 4,Make 1000000 bells in profit selling turnips,,,
+Cornering the stalk market 5,,,,
+No more loan payments!,Pay off the first home loan,1000,Responsible,Bill payer
+Bulletin-boards benefit,Post something on the bullentin board,300,Rumormongering,Influencer
+Popular pen pal 1,Send 5 letters,300,Art-school,Boy/Girl
+Popular pen pal 2,Send 20 letters,,,
+Popular pen pal 3,,,,
+Popular pen pal 4,,,,
+Popular pen pal 5,,,,
+Flea flicker 1,Catch 1 flea off of a villager,300,Tidy,Wild child
+Flea flicker 2,Catch 5 fleas off of villagers,500,Highly aware,Neatnik
+Flea flicker 3,Catch 10 fleas off of villagers,,,
+Taking the sting out,"Get stung by wasps twice, causing you to faint",300,Teary-eyed,Crybaby
+Faint of heart,Get attacked by a tarantula or scorpion,300,Risen,Phoenix
+Lost treasure,Shoot down a ballon and have it fall into water,500,Catchable,Klutz
+It's raining treasure! 1,Shoot down 5 balloons,300,Easy-breezy,Slingshot Ace
+It's raining treasure! 2,Shoot down 20 balloons,500,Atmospheric,Floaty thing
+It's raining treasure! 3,Shoot down 50 balloons,1000,Restless,Hunter
+It's raining treasure! 4,Shoot down 100 balloons,,,
+It's raining treasure! 5,,,,
+Fun with fences,Place 20 fences,500,Efficient,Partitioner
+Wishes come true 1,Wish on a shooting star once,,,
+Wishes come true 2,Wish on a shooting star 30 times,,,
+Wishes come true 3,,,,
+Exterior Decorator,Place 10 pieces of furniture outdoors,300,Outdoor-loving,Decorating Fiend
+[Town name] icons 1,Change the island flag,500,Flapping,Flag waver
+[Town name] icons 2,Change the island tune,500,Humming,Musician
+Island designer 1,Lay down paths,500,Trailblazing,Runner
+Island designer 2,Terraform water,1000,Swept-away,Pioneer
+Island designer 3,Terraform cliffs,1000,Cliffhanping,Creator
+Wispy island secrets 1,Help Wisp once,300,Cowardly,Ghost
+Wispy island secrets 2,Help Wisp 10 times,,,
+Wispy island secrets 3,,,,
+Gulliver's travails 1,Help Gulliver once,300,Flightless,Fowl
+Gulliver's travails 2,Help Gulliver 10 times,,,
+Gulliver's travails 3,,,,
+ManiaKK 1,See a K.K. Slider show once,300,Fickle,Music-lover
+ManiaKK 2,See a K.K. Slider show 10 times,,,
+ManiaKK 3,,,,
+ManiaKK 4,,,,
+ManiaKK 5,,,,
+True friends 1,"Have a ""good relationship"" with one villager",300,Soothing,Pal
+True friends 2,"Have a ""good relationship"" with two villagers",500,Friendly,Buddy
+True friends 3,"Have a ""good relationship"" with three villagers",1000,Friendship,Seeker
+Birthday celebration 1,Celebrate 1 villager's birthday,300,Untamed,Party animal
+Birthday celebration 2,Celebrate 10 villagers' birthday,,,
+Birthday celebration 3,,,,
+Happy birthday!,Celebrate your birthday in-game,2000,Celebratory,Birthday Boy/Girl
+Fishing Tourney! 1,Paricipate in the spring fishing tourney,,,
+Fishing Tourney! 2,Paricipate in the summer fishing tourney,300,Summer-born,Chiller
+Fishing Tourney! 3,Paricipate in the fall fishing tourney,,,
+Fishing Tourney! 4,Paricipate in the winter fishing tourney,,,
+Bug-off! 1,Participate in the bug-off 1 time,300,Adolescent,Youngster
+Bug-off! 2,,,,
+Bug-off! 3,,,,
+Bug-off! 4,,,,
+Making a change,Use a closet to change outfits,500,Trendy,Model
+First custom design!,Create a custom design,500,Aspiring,Artist
+Custom design pro!,Create a pro custom design,300,Pro,Design
+Paydirt!,Dig up buried bells from a glowing spot,300,Lucky,Tyoe
+Shady shakedown 1,Shake a piece of furniture out of a tree,300,Carefree,Figure
+Shady shakedown 2,Shake 10 pieces of furniture out of trees,1000,Jovial,Brute
+Shady shakedown 3,Shake 20 pieces of furniture out of trees,,,
+Shady shakedown 4,,,,
+Shady shakedown 5,,,,
+Island and yourland 1,Visit another players' island once,300,Traveling,Personality
+Island and yourland 2,Visit another players' island 5 times,500,Occasional,Tourist
+Island and yourland 3,Visit another players' island 10 times,1000,Global,Wanderer
+Host the most 1,Host 1 person on your island,300,Hospitable,Friend
+Host the most 2,Host 5 people on your island,500,Lonely,Chum
+Host the most 3,Host 10 people on your island,1000,Well-known,Partier
+Active island resident 1,Play for 3 dyas,300,Self-paced,Chill soul
+Active island resident 2,Play for 20 days,500,Active,Specialist
+Active island resident 3,Play for 50 days,1000,Sleepless,Adventurer
+Active island resident 4,Play for 100 days,,,
+Active island resident 5,,,,
